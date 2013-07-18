@@ -34,6 +34,9 @@ Adding your own library to Ark
   ```
   apply plugin: 'maven-publish'
 
+  group = 'com.example`
+  version = '1.0.0'
+
   android.libraryVariants
   publishing {
       publications {
