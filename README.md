@@ -6,6 +6,9 @@ use as dependencies in Android projects with the new Gradle Build Tool.
 
 Why jump through hoops for Maven Central when you can publish right on GitHub?
 
+This is currently my personal collection of common libraries that I forked and published
+myself. If you like it or want to add to it please contribue!
+
 Usage
 -----
 
@@ -76,4 +79,4 @@ Adding your own library to Ark
 *  `de.keyboardsurfer.android.widget:crouton:1.8.2-SNAPSHOT`
 *  `com.android.frameworks:volley:master-SNAPSHOT`
 
-open an issue or contact me if you want any packages added to this list!
+Open an issue or contact me if you want any packages added to this repo!
