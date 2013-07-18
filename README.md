@@ -74,5 +74,6 @@ Adding your own library to Ark
 *  `com.actionbarsherlock:actionbarsherlock:4.3.2-SNAPSHOT`
 *  `com.loopj.android.http:android-async-http:1.4.4-SNAPSHOT`
 *  `de.keyboardsurfer.android.widget:crouton:1.8.2-SNAPSHOT`
+*  `com.android.frameworks:volley:master-SNAPSHOT`
 
 open an issue or contact me if you want any packages added to this list!

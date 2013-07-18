@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.android.frameworks</groupId>
+  <artifactId>volley</artifactId>
+  <version>master-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>master-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130718232748</lastUpdated>
+  </versioning>
+</metadata>
