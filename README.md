@@ -66,11 +66,13 @@ Adding your own library to Ark
 #### Releases:
 *  `com.actionbarsherlock:actionbarsherlock:4.3.1`
 *  `com.loopj.android.http:android-async-http:1.4.3`
+*  `de.keyboardsurfer.android.widget:crouton:1.8.1`
 *  `com.makeramen:roundedimageview:1.0.0`
 
 #### Snapshots
 
 *  `com.actionbarsherlock:actionbarsherlock:4.3.2-SNAPSHOT`
 *  `com.loopj.android.http:android-async-http:1.4.4-SNAPSHOT`
+*  `de.keyboardsurfer.android.widget:crouton:1.8.2-SNAPSHOT`
 
 open an issue or contact me if you want any packages added to this list!
