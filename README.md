@@ -59,3 +59,18 @@ Adding your own library to Ark
 * Fork this repo
 * Publish your library into your forked repo (see example `build.gradle` section from above)
 * Open a pull request
+
+
+### Currently available packages:
+
+#### Releases:
+*  `com.actionbarsherlock:actionbarsherlock:4.3.1`
+*  `com.loopj.android.http:android-async-http:1.4.3`
+*  `com.makeramen:roundedimageview:1.0.0`
+
+#### Snapshots
+
+*  `com.actionbarsherlock:actionbarsherlock:4.3.2-SNAPSHOT`
+*  `com.loopj.android.http:android-async-http:1.4.4-SNAPSHOT`
+
+open an issue or contact me if you want any packages added to this list!
