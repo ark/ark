@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.loopj.android.http</groupId>
+  <artifactId>android-async-http</artifactId>
+  <version>1.4.3</version>
+  <versioning>
+    <versions>
+      <version>1.4.3</version>
+    </versions>
+    <lastUpdated>20130718205106</lastUpdated>
+  </versioning>
+</metadata>
