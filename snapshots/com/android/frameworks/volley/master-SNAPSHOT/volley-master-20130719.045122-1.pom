@@ -5,4 +5,5 @@
   <groupId>com.android.frameworks</groupId>
   <artifactId>volley</artifactId>
   <version>master-SNAPSHOT</version>
+  <packaging>aar</packaging>
 </project>
