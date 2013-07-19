@@ -5,4 +5,5 @@
   <groupId>com.loopj.android.http</groupId>
   <artifactId>android-async-http</artifactId>
   <version>1.4.3</version>
+  <packaging>aar</packaging>
 </project>
