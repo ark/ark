@@ -54,8 +54,9 @@ Adding your own library to Ark
       }
   }
   ```
-  Make sure it generates the ark/releases folder _next_ to your git
-  repository, _not_ inside it. So add/remove `../` as necessary.
+  Make sure the maven repo url points to the ark/releases folder inside
+  the ark repository, _not_ inside the project being built. So add/remove `../`
+  or change the url as necessary.
 * File an issue, I'll get to it, or tell you you're doing it wrong.
 
 ### By Pull Request:
