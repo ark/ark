@@ -5,4 +5,5 @@
   <groupId>de.keyboardsurfer.android.widget</groupId>
   <artifactId>crouton</artifactId>
   <version>1.8.1</version>
+  <packaging>aar</packaging>
 </project>
