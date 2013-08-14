@@ -25,7 +25,7 @@ Then add the libraries you want as dependencies:
 
 ```
 dependencies {
-    compile 'com.actionbarsherlock:actionbarsherlock:4.3.1'
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0'
 }
 ```
 
@@ -33,7 +33,7 @@ Adding your own library to Ark
 ------------------------------
 
 ### By Updating your library and filing an issue:
-* Add something like this to your build.gradle:
+* Add something like this to your build.gradle (currently only works with android plugin 0.5.4):
   ```
   apply plugin: 'maven-publish'
 
@@ -69,6 +69,8 @@ Adding your own library to Ark
 
 #### Releases:
 *  `com.actionbarsherlock:actionbarsherlock:4.3.1`
+*  `com.actionbarsherlock:actionbarsherlock:4.4.0`
+*  `com.viewpagerindicator:library:2.4.1`
 *  `com.loopj.android.http:android-async-http:1.4.3`
 *  `de.keyboardsurfer.android.widget:crouton:1.8.1`
 *  `com.makeramen:roundedimageview:1.0.0`
