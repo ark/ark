@@ -74,6 +74,7 @@ Adding your own library to Ark
 *  `com.loopj.android.http:android-async-http:1.4.3`
 *  `de.keyboardsurfer.android.widget:crouton:1.8.1`
 *  `com.makeramen:roundedimageview:1.0.0`
+*  `com.astuetz.pagerslidingtabstrip:1.0.0`
 
 #### Snapshots
 
@@ -82,5 +83,6 @@ Adding your own library to Ark
 *  `de.keyboardsurfer.android.widget:crouton:1.8.2-SNAPSHOT`
 *  `com.android.frameworks:volley:master-SNAPSHOT`
 *  `com.romainguy:viewserver:1.0-SNAPSHOT`
+*  `com.astuetz.pagerslidingtabstrip:1.0.0-SNAPSHOT`
 
 Open an issue or contact me if you want any packages added to this repo!
