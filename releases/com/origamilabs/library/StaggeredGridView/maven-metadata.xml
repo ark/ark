@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.origamilabs.library</groupId>
+  <artifactId>StaggeredGridView</artifactId>
+  <version>1.0</version>
+  <versioning>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20130928181712</lastUpdated>
+  </versioning>
+</metadata>
