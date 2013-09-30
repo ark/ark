@@ -86,3 +86,7 @@ Adding your own library to Ark
 *  `com.astuetz:pagerslidingtabstrip:1.0.0-SNAPSHOT`
 
 Open an issue or contact me if you want any packages added to this repo!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ark/ark/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
