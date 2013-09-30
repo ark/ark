@@ -75,6 +75,7 @@ Adding your own library to Ark
 *  `de.keyboardsurfer.android.widget:crouton:1.8.1`
 *  `com.makeramen:roundedimageview:1.0.0`
 *  `com.astuetz:pagerslidingtabstrip:1.0.0`
+*  `com.origamilabs.library.staggeredgridview:1.0`
 
 #### Snapshots
 
