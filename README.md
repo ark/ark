@@ -13,7 +13,7 @@ Usage
 -----
 
 To use, add this github repo as a repository:
-```
+```groovy
 repositories {
     maven {
         url 'https://raw.github.com/ark/ark/master/releases/'
@@ -23,7 +23,7 @@ repositories {
 
 Then add the libraries you want as dependencies:
 
-```
+```groovy
 dependencies {
     compile 'com.actionbarsherlock:actionbarsherlock:4.4.0'
 }
@@ -34,7 +34,7 @@ Adding your own library to Ark
 
 ### By Updating your library and filing an issue:
 * Add something like this to your build.gradle (currently only works with android plugin 0.5.4):
-  ```
+  ```groovy
   apply plugin: 'maven-publish'
 
   group = 'com.example`
