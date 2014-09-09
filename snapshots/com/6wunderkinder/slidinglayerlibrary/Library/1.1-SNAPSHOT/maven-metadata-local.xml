@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.6wunderkinder.slidinglayerlibrary</groupId>
+  <artifactId>Library</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20140909075838</lastUpdated>
+  </versioning>
+</metadata>
