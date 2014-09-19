@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.uploadcare</groupId>
+  <artifactId>uploadcare</artifactId>
+  <versioning>
+    <release>1.1-ANDROID</release>
+    <versions>
+      <version>1.1-SNAPSHOT</version>
+      <version>1.1-ANDROID</version>
+    </versions>
+    <lastUpdated>20140919091715</lastUpdated>
+  </versioning>
+</metadata>
