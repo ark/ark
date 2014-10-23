@@ -85,6 +85,7 @@ Adding your own library to Ark
 *  `com.android.frameworks:volley:master-SNAPSHOT`
 *  `com.romainguy:viewserver:1.0-SNAPSHOT`
 *  `com.astuetz:pagerslidingtabstrip:1.0.0-SNAPSHOT`
+*  `'com.6wunderkinder.slidinglayerlibrary:Library:1.1-SNAPSHOT'`
 
 Open an issue or contact me if you want any packages added to this repo!
 
